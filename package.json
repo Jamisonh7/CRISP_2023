@@ -1,0 +1,28 @@
+{
+  "name": "crisp_2023",
+  "version": "1.0.0",
+  "description": "CRISP API Assesment",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha \"test/**/*.test.js\" --timeout 60000 --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jamisonh7/CRISP_2023.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jamisonh7/CRISP_2023/issues"
+  },
+  "homepage": "https://github.com/Jamisonh7/CRISP_2023#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "faker": "^6.6.6",
+    "mocha": "^10.2.0",
+    "moment": "^2.29.4",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
